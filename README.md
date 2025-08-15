@@ -41,6 +41,12 @@ I used React Native Paper for a polished look with:
 - Loading states and smooth animations
 - Responsive design that works on any screen
 
+### ScreenShots
+![](https://github.com/user-attachments/assets/310b90a9-3283-496f-a745-b6de6d98c785)
+![](https://github.com/user-attachments/assets/dbeefb43-84fa-4913-9ddd-eadfac8b80ac)
+
+
+
 ## Project Structure
 
 ```
